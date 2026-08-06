@@ -2,5 +2,12 @@
   "name": "My CodeBuddy Skills",
   "description": "个人 AI 技能集合",
   "version": "1.0.0",
-  "plugins": []
+  "plugins": [
+    {
+      "name": "hello-world",
+      "source": "./plugins/hello-world",
+      "description": "示例技能 - 打招呼/问候",
+      "version": "1.0.0"
+    }
+  ]
 }
